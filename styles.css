@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+main{
+	background-color: #E5E4E2;
+	width: 45%;
+	margin: auto;
+	text-align: center;
+	padding: 40px;
+	border-radius: 5px;
+}
+img{
+	width: 300px;
+}
+main button{
+	background-color: 	#FF69B4;
+	padding: 20px;
+	border: none;
+	border-radius: 10px;
+	font-size: 20px;
+	color: white;
+}
+.btn:hover {
+  background-color: #555555;
+  color: white;
+}
