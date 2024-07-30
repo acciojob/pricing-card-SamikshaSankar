@@ -1,16 +1,18 @@
 /*  your css code here. If applicable */
-main{
+div{
 	background-color: #E5E4E2;
 	width: 45%;
 	margin: auto;
 	text-align: center;
 	padding: 40px;
 	border-radius: 5px;
+	box-shadow: 0px 10px 10px 10px #aaaaaa;
+	
 }
 img{
 	width: 300px;
 }
-main button{
+div button{
 	background-color: 	#FF69B4;
 	padding: 20px;
 	border: none;
